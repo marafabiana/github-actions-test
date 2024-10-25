@@ -6,7 +6,7 @@ on:
       - main
 
 permisions:
-  content: read
+  contents: read
   pages: write
   id-token: write
 
